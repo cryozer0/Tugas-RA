@@ -2,9 +2,9 @@
 
 <item itemtype="DcMotor" CircId="DcMotor-3" mainComp="false" ShowProp="Volt_Nominal" Show_id="true" Show_Val="true" Pos="-32,-248" rotation="0" hflip="1" vflip="1" label="DcMotor" idLabPos="-22,-48" labelrot="0" valLabPos="-14,36" valLabRot="0" RPM_Nominal="60 _RPM" Volt_Nominal="5 V" Resistance="100 Ω" />
 
-<item itemtype="LDR" CircId="LDR-4" mainComp="false" ShowProp="Lux" Show_id="true" Show_Val="true" Pos="-476,-308" rotation="90" hflip="1" vflip="1" label="LDR-1" idLabPos="-8.07641,-27.9618" labelrot="0" valLabPos="-16,30" valLabRot="0" Lux="1000 Lux" Min_Lux="1e-12 Lux" Max_Lux="1000 Lux" Dial_Step="0 Lux" Gamma="0.8582" R1="127410 Ω" Slider="false" Scale="1" />
+<item itemtype="LDR" CircId="LDR-4" mainComp="false" ShowProp="Lux" Show_id="true" Show_Val="true" Pos="-476,-308" rotation="90" hflip="1" vflip="1" label="LDR-1" idLabPos="-8.07641,-27.9618" labelrot="0" valLabPos="-16,28.7105" valLabRot="0" Lux="1000 Lux" Min_Lux="1e-12 Lux" Max_Lux="1000 Lux" Dial_Step="0 Lux" Gamma="0.8582" R1="127410 Ω" Slider="false" Scale="1" />
 
-<item itemtype="LDR" CircId="LDR-5" mainComp="false" ShowProp="Lux" Show_id="true" Show_Val="true" Pos="-476,-200" rotation="90" hflip="1" vflip="1" label="LDR-2" idLabPos="-14.5114,-27.9618" labelrot="0" valLabPos="-16,30" valLabRot="0" Lux="499 Lux" Min_Lux="1e-12 Lux" Max_Lux="1000 Lux" Dial_Step="0 Lux" Gamma="0.8582" R1="127410 Ω" Slider="false" Scale="1" />
+<item itemtype="LDR" CircId="LDR-5" mainComp="false" ShowProp="Lux" Show_id="true" Show_Val="true" Pos="-476,-200" rotation="90" hflip="1" vflip="1" label="LDR-2" idLabPos="-14.5114,-27.9618" labelrot="0" valLabPos="-16,28.7105" valLabRot="0" Lux="499 Lux" Min_Lux="1e-12 Lux" Max_Lux="1000 Lux" Dial_Step="0 Lux" Gamma="0.8582" R1="127410 Ω" Slider="false" Scale="1" />
 
 <item itemtype="opAmp" CircId="opAmp-6" mainComp="false" ShowProp="Volt_Pos" Show_id="true" Show_Val="true" Pos="-252,-300" rotation="0" hflip="1" vflip="1" label="opAmp-1" idLabPos="-16,-32" labelrot="0" valLabPos="-16,20" valLabRot="0" Gain="1000" Out_Imped="1e-14 Ω" Power_Pins="false" Switch_Pins="false" Volt_Pos="5 V" Volt_Neg="0 V" />
 
@@ -12,11 +12,11 @@
 
 <item itemtype="Mosfet" CircId="Mosfet-9" mainComp="false" Show_id="true" Show_Val="false" Pos="-128,-332" rotation="0" hflip="1" vflip="1" label="Mosfet-1" idLabPos="18,-0.304753" labelrot="0" valLabPos="-16,20" valLabRot="0" P_Channel="false" Depletion="false" RDSon="1 Ω" Threshold="3 V" />
 
-<item itemtype="Mosfet" CircId="Mosfet-10" mainComp="false" Show_id="true" Show_Val="false" Pos="-128,-188" rotation="0" hflip="1" vflip="1" label="Mosfet-2" idLabPos="18,0" labelrot="0" valLabPos="-16,20" valLabRot="0" P_Channel="false" Depletion="false" RDSon="1 Ω" Threshold="3 V" />
+<item itemtype="Mosfet" CircId="Mosfet-10" mainComp="false" Show_id="true" Show_Val="false" Pos="-128,-192" rotation="0" hflip="1" vflip="1" label="Mosfet-2" idLabPos="18,0" labelrot="0" valLabPos="-16,20" valLabRot="0" P_Channel="false" Depletion="false" RDSon="1 Ω" Threshold="3 V" />
 
 <item itemtype="Mosfet" CircId="Mosfet-11" mainComp="false" Show_id="true" Show_Val="false" Pos="28,-332" rotation="0" hflip="1" vflip="1" label="Mosfet-3" idLabPos="18,0" labelrot="0" valLabPos="-16,20" valLabRot="0" P_Channel="false" Depletion="false" RDSon="1 Ω" Threshold="3 V" />
 
-<item itemtype="Mosfet" CircId="Mosfet-12" mainComp="false" Show_id="true" Show_Val="false" Pos="28,-188" rotation="0" hflip="1" vflip="1" label="Mosfet-4" idLabPos="18,0" labelrot="0" valLabPos="-16,20" valLabRot="0" P_Channel="false" Depletion="false" RDSon="1 Ω" Threshold="3 V" />
+<item itemtype="Mosfet" CircId="Mosfet-12" mainComp="false" Show_id="true" Show_Val="false" Pos="28,-192" rotation="0" hflip="1" vflip="1" label="Mosfet-4" idLabPos="18,0" labelrot="0" valLabPos="-16,20" valLabRot="0" P_Channel="false" Depletion="false" RDSon="1 Ω" Threshold="3 V" />
 
 <item itemtype="Voltimeter" CircId="Voltimeter-13" mainComp="false" Show_id="true" Show_Val="false" Pos="-392,-284" rotation="0" hflip="1" vflip="1" label="Voltimeter" idLabPos="-24,-40" labelrot="0" valLabPos="-16,20" valLabRot="0" />
 
@@ -64,17 +64,17 @@
 
 <item itemtype="Connector" uid="Connector-15" startpinid="Mosfet-9-Sour" endpinid="Node-23-0" pointList="-120,-316,-120,-248" />
 
-<item itemtype="Connector" uid="Connector-16" startpinid="Node-23-2" endpinid="Mosfet-10-Dren" pointList="-120,-248,-120,-204" />
+<item itemtype="Connector" uid="Connector-16" startpinid="Node-23-2" endpinid="Mosfet-10-Dren" pointList="-120,-248,-120,-208" />
 
 <item itemtype="Connector" uid="Connector-18" startpinid="DcMotor-3-rPin" endpinid="Node-24-1" pointList="8,-248,36,-248" />
 
 <item itemtype="Connector" uid="Connector-19" startpinid="Mosfet-11-Sour" endpinid="Node-24-0" pointList="36,-316,36,-248" />
 
-<item itemtype="Connector" uid="Connector-20" startpinid="Node-24-2" endpinid="Mosfet-12-Dren" pointList="36,-248,36,-204" />
+<item itemtype="Connector" uid="Connector-20" startpinid="Node-24-2" endpinid="Mosfet-12-Dren" pointList="36,-248,36,-208" />
 
 <item itemtype="Connector" uid="Connector-22" startpinid="Node-25-1" endpinid="Ground-20-Gnd" pointList="-120,-140,-120,-120" />
 
-<item itemtype="Connector" uid="Connector-24" startpinid="Node-25-2" endpinid="Mosfet-12-Sour" pointList="-120,-140,36,-140,36,-172" />
+<item itemtype="Connector" uid="Connector-24" startpinid="Node-25-2" endpinid="Mosfet-12-Sour" pointList="-120,-140,36,-140,36,-176" />
 
 <item itemtype="Connector" uid="Connector-30" startpinid="Voltage Source-16-outPin" endpinid="opAmp-7-inputInv" pointList="-324,-184,-276,-184" />
 
@@ -106,12 +106,12 @@
 
 <item itemtype="Connector" uid="Connector-29" startpinid="Node-26-2" endpinid="Node-25-0" pointList="-120,-140,-120,-140" />
 
-<item itemtype="Connector" uid="Connector-28" startpinid="Mosfet-10-Sour" endpinid="Node-26-0" pointList="-120,-172,-120,-140" />
+<item itemtype="Connector" uid="Connector-28" startpinid="Mosfet-10-Sour" endpinid="Node-26-0" pointList="-120,-176,-120,-140" />
 
 <item itemtype="Connector" uid="Connector-82" startpinid="Node-31-2" endpinid="Node-30-1" pointList="-400,-260,-276,-260" />
 
-<item itemtype="Connector" uid="Connector-83" startpinid="opAmp-6-output" endpinid="Mosfet-10-Gate" pointList="-228,-300,-160,-300,-160,-188,-144,-188" />
+<item itemtype="Connector" uid="Connector-104" startpinid="opAmp-7-output" endpinid="Mosfet-10-Gate" pointList="-228,-192,-144,-192" />
 
-<item itemtype="Connector" uid="Connector-84" startpinid="opAmp-7-output" endpinid="Mosfet-12-Gate" pointList="-228,-192,-212,-192,-212,-156,-4,-156,-4,-188,12,-188" />
+<item itemtype="Connector" uid="Connector-106" startpinid="opAmp-6-output" endpinid="Mosfet-12-Gate" pointList="-228,-300,-228,-228,-76,-228,-76,-192,12,-192" />
 
 </circuit>
